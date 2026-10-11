@@ -536,7 +536,7 @@ footer span {
 
     <div class="photo">
       <!-- Change to your own photo file -->
-       <img  src=" "
+       <img  src="myphoto.jpg"
   style="width:230px; height:270px; object-fit:cover;"
 >
            onerror="this.style.display='none';
